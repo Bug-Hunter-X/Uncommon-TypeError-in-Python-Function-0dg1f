@@ -1,0 +1,1 @@
+This repository demonstrates a less common type of error that can occur in Python, specifically a TypeError related to an incorrect number of arguments passed to a function. The script includes examples illustrating the behavior and how it can be handled.
